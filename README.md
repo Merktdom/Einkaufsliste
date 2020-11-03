@@ -35,9 +35,3 @@ __Entwicklungsumgebungen:__
 * Musizieren
 * IT-Technik
 * Rad fahren
-<br>
-<br>
-
-#### Soziales Engagement
-* Feuerwehr
-* Musikverein
