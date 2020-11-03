@@ -35,3 +35,7 @@ __Entwicklungsumgebungen:__
 * Musizieren
 * IT-Technik
 * Rad fahren
+<br>
+<br>
+
+![Image](src/tux.png)
