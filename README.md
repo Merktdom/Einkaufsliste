@@ -37,7 +37,6 @@ __Entwicklungsumgebungen:__
 * Rad fahren
 <br>
 <br>
-
 #### Soziales Engagement
 * Feuerwehr
 * Musikverein
