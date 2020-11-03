@@ -1,0 +1,8 @@
+# Meine Einkaufsliste für Aufgabe 4 Softwareentwicklung
+Laptop
+Bildschirm
+Tastatur
+Maus
+LAN-Kabel
+USB-Stick
+Linux-System
